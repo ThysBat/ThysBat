@@ -9,7 +9,7 @@ My GitHub experience starts with this repository and I am curious about all the 
 Currently I work part time as a bartender to finance my career as a self employed web developer which I, hopefully, will be one day.
 In my freetime I do alot with friends, playing boardgames or the best Mario Kart ever released: Mario Kart Double Dash!
 
-![Mario Kart Double Dash Cover](https://i.ytimg.com/vi/wPFRxzlx6jY/maxresdefault.jpg)
+<img alt="Mario Kart Double Dash Cover" src="https://i.ytimg.com/vi/wPFRxzlx6jY/maxresdefault.jpg" height="180px">
 
 Some things I like are:
 - Food, especially candy
