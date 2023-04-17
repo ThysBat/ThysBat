@@ -17,3 +17,15 @@ Some things I like are:
 - Discussions in general
 - Reading fantasy novels or comics
 - Taking a walk in the nature
+
+## Coding Experience
+
+### Languages I know a little
+![PHP](https://img.shields.io/badge/-PHP-9cf)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+
+### Frameworks I coded with
+![Vue](https://img.shields.io/badge/-Vue-brightgreen)
+![Laravel](https://img.shields.io/badge/-Laravel-red)
