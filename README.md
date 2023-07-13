@@ -18,14 +18,12 @@ In my freetime I do alot with friends, playing boardgames or the best Mario Kart
 - Reading fantasy novels or comics
 - Taking a walk in the nature
 
-## Coding Experience
+## Tech Stack
 
-### Languages I know a little
-![PHP](https://img.shields.io/badge/-PHP-9cf)
-![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
-
-### Frameworks I coded with
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
 ![Vue](https://img.shields.io/badge/-Vue-brightgreen)
+![PHP](https://img.shields.io/badge/-PHP-9cf)
 ![Laravel](https://img.shields.io/badge/-Laravel-red)
