@@ -24,6 +24,6 @@ In my freetime I do alot with friends, playing boardgames or the best Mario Kart
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
 ![React](https://img.shields.io/badge/-React-blue)
-![Vue](https://img.shields.io/badge/-Vue-brightgreen)
+![Vue2](https://img.shields.io/badge/-Vue-brightgreen)
 ![PHP](https://img.shields.io/badge/-PHP-9cf)
 ![Laravel](https://img.shields.io/badge/-Laravel-red)
