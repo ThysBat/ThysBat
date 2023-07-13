@@ -11,7 +11,7 @@ In my freetime I do alot with friends, playing boardgames or the best Mario Kart
 
 <img alt="Mario Kart Double Dash Cover" src="https://i.ytimg.com/vi/wPFRxzlx6jY/maxresdefault.jpg" height="180px">
 
-Some things I like are:
+### Some things I like are:
 - Food, especially candy
 - Discussions about philosophical opinions
 - Discussions in general
